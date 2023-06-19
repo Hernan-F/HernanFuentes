@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camioneta Ford",
+      "precio": 10,
+      "img": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-ranger-raptor.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Mustang GT",
+      "precio": 20,
+      "img": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-mustang.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Ford Ranger",
+      "precio": 15,
+      "img": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/home/showroom/fds/far-showroom-next-gen-ranger.jpg"
+    }
+  ]
